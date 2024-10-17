@@ -1,1 +1,0 @@
-const imgs = document.querySelectorAll('.shop-section box url');
